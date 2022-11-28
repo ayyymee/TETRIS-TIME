@@ -6,7 +6,7 @@
 Although I was never good at it, I always enjoyed playing tetris. Hence, I thought it would be a fun challenge to take bits and pieces of different languages I've learned to date. Here, I've created a basic version of tetris using JavaScript, HTML and CSS. 
   
 
-For those who may not know, the objective of tetris is simple. You try to fill a full row with blocks that are coming down from the top of the screen. 
+For those who may not know, the objective of tetris is simple. You try to fill a full row with tetrominoes that are coming down from the top of the screen. 
 
 I consider this version of tetris simple for several resons:
 1. There is minimal styling
@@ -37,5 +37,5 @@ In this game of tetris, I was able to integrate the following JavaScript methods
 If you'd like to play and you haven't played before, here are the following instructions:
 1.  Press Start/Pause on the Left upper corner
 2.  You can move the blocks around (left/right/up(rotates)/down(increase the speed of the downfall)).
-3.  The blocks will fall at a constant rate but you have the capability to change them faster to optimize your blocks on the screen
+3.  The tetrominoes will fall at a constant rate but you have the capability to change them faster to optimize your blocks on the screen
 
