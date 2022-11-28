@@ -64,4 +64,5 @@ If you'd like to play and you haven't played before, here are the following inst
 Good luck!
 
 ---------- THE END ---------- 
+
 I hope you enjoy playing this game as much as I had fun creating it. 
